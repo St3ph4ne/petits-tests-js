@@ -60,7 +60,7 @@ if (isShinning === true) {
  *  - Si le nombre est un multiple de de 3 et de 5 afficher en console fizzbuzz
  */
 
-// On affecte à la variable r un entier aléatoire compris entre 0 et 99
+// On affecte à la variable r un entier aléatoire compris entre 0 et 100
 let r = Math.round(Math.random() * 100);
 
 // On regarde si r est multiple de 3,
